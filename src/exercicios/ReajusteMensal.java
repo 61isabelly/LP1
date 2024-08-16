@@ -18,5 +18,6 @@ public class ReajusteMensal {
 
         System.out.print(("Seu novo salário é de R$ " + novoSalario));
 
+        sc.close();
     }
 }
