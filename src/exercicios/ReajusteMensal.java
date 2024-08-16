@@ -10,10 +10,10 @@ public class ReajusteMensal {
         double salarioMensal = sc.nextDouble();
 
         System.out.print("Insira o percentual de reajuste: ");
-        double reajustePercentual = sc.nextDouble();
+        double reajusteSalario = sc.nextDouble();
 
 
-        double aumento = salarioMensal * (reajustePercentual / 100);
+        double aumento = salarioMensal * (reajusteSalario / 100);
         double novoSalario = salarioMensal + aumento;
 
         System.out.print(("Seu novo salário é de R$ " + novoSalario));
