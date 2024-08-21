@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class EleiçãoVotos {
+public class Ex2EleiçãoVotos {
     public static void main (String [] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -26,6 +26,5 @@ public class EleiçãoVotos {
         System.out.println("Percentual de votos válidos: " + percentualValidos + "%");
 
         sc.close();
-
     }
 }

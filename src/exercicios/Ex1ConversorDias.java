@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class ConversorDias {
+public class Ex1ConversorDias {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,7 +18,6 @@ public class ConversorDias {
         System.out.println("A sua idade total em dias é de: " + idadeEmDias);
 
         sc.close();
-
     }
 }
 

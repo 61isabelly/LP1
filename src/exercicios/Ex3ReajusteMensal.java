@@ -2,14 +2,14 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class ReajusteMensal {
+public class Ex3ReajusteMensal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Insira seu salário mensal: ");
+        System.out.print("Seu salário mensal: ");
         double salarioMensal = sc.nextDouble();
 
-        System.out.print("Insira o percentual de reajuste: ");
+        System.out.print("O percentual de reajuste: ");
         double reajusteSalario = sc.nextDouble();
 
 
