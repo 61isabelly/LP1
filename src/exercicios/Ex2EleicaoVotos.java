@@ -2,7 +2,7 @@ package exercicios;
 
 import java.util.Scanner;
 
-public class Ex2EleiçãoVotos {
+public class Ex2EleicaoVotos {
     public static void main (String [] args) {
         Scanner sc = new Scanner(System.in);
 
