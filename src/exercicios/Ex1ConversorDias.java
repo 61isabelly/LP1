@@ -20,5 +20,14 @@ public class Ex1ConversorDias {
         sc.close();
     }
 }
+/* Teste de Mesa
 
+| Passo | Descrição                          | anos | meses | dias | idadeEmDias                                     | Cálculo                                                | Resultado                             |
+|-------|------------------------------------|------|-------|------|-------------------------------------------------|--------------------------------------------------------|---------------------------------------|
+| 1     |Entrada da idade em anos            |2     |       |      |                                                 |                                                        |                                       |
+| 2     |Entrada da idade em meses           |2     |5      |      |                                                 |                                                        |                                       |
+| 3     |Entrada da idade em dias            |2     |5      |10    |                                                 |                                                        |                                       |
+| 4     |Calcular a idade total em dias      |2     |5      |10    |2 * 12 * 30 + 5 * 30 + 10 = 720 + 150 + 10 = 880 | `idadeEmDias = (anos * 12 * 30) + (meses * 30) + dias` | "A sua idade total em dias é de: 880" |
+
+ */
 
