@@ -11,7 +11,7 @@ Bem-vindo ao repositório da disciplina **Linguagem de Programação I**! Este r
 
 ## Estrutura do Repositório
 
-- **`src/exercicios`**: Diretório com os arquivos Java que contêm os exercícios práticos.
+- **`src/exercicio1`**: Diretório com os arquivos Java que contêm os exercícios práticos.
 
 ## Objetivos
 
